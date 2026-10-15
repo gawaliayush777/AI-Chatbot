@@ -1,0 +1,7 @@
+{
+  "name": "CIE Student Help Desk",
+  "description": "AI-powered college Continuous Internal Evaluation (CIE) help desk chatbot answering exam, attendance, marks, syllabus, and campus queries instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
